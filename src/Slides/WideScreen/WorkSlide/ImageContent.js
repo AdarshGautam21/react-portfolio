@@ -89,33 +89,7 @@ class ImageContent extends Component {
             scrollHeight={scrollHeight}
           />
         </ImageBox>
-        <ImageBox height={boxHeight}>
-          <TeslaImages
-            boxHeight={boxHeight}
-            index={4}
-            scrollPercent={scrollPercent}
-            screenHeight={screenHeight}
-            scrollHeight={scrollHeight}
-          />
-        </ImageBox>
-        <ImageBox height={boxHeight}>
-          <KosenImages
-            boxHeight={boxHeight}
-            index={5}
-            scrollPercent={scrollPercent}
-            screenHeight={screenHeight}
-            scrollHeight={scrollHeight}
-          />
-        </ImageBox>
-        <ImageBox height={boxHeight}>
-          <VoistrapWebImages
-            boxHeight={boxHeight}
-            index={6}
-            scrollPercent={scrollPercent}
-            screenHeight={screenHeight}
-            scrollHeight={scrollHeight}
-          />
-        </ImageBox>
+
       </ImageContainer>
     );
   }
