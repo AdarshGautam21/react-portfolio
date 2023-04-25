@@ -43,8 +43,8 @@ class AboutMe extends Component {
     return (
       <Container>
         <AboutMeDescription>
-          Front-end developer who cares deeply about user experience.
-          Serious passion for UI design and new technologies.
+          Experienced Blockchain Developer with expertise in developing and implementing blockchain solutions using various frameworks and programming languages.
+
         </AboutMeDescription>
       </Container>
     );
